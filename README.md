@@ -1,2 +1,2 @@
-# sk-interior
-this is a login host for the sk interior website
+# wallpaper2
+this is the second host for the wallpaper 
